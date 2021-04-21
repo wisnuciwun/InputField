@@ -3,7 +3,7 @@ import { Input, FormGroup, Label, Row } from 'reactstrap'
 import NumberFormat from 'react-number-format'
 
 
-export default function InputField({title = "", value, name, onChange, type = "text", width = "200px", disabled = false, textAlign = "left", addedIcon = "", addedOnClick, validator = "", format = "", placeholder = "", fontWeight = "bold"}) {
+export default function InputField({title = "", value, name, onChange, type = "text", width = "200px", disabled = false, textAlign = "left", addedIcon = "", addedOnClick, format = "", placeholder = "", fontWeight = "bold"}) {
 
     return (
         <FormGroup>
