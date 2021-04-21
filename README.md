@@ -32,7 +32,7 @@
 
 :paperclip: Example :
 ```js
-<ButtonIcons icon="fa fa-exclamation" height="50px" width="100px" color="warning" title="Cancel"/>
+<InputField fontWeight="normal" placeholder="Write your name here" disabled={false} width="100px" title="Name"/>
 ```
 
 :camera: Preview :
