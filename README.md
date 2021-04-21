@@ -36,4 +36,4 @@
 ```
 
 :camera: Preview :
-- https://i.ibb.co/QJ7Rfnn/Whats-App-Image-2021-04-20-at-12-19-28.jpg
+- https://i.ibb.co/wWRmm4f/57ab601a-f6e0-40ef-b9bf-57808312a962.jpg
